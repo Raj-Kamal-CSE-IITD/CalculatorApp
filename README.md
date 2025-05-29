@@ -28,3 +28,8 @@ Add math library in requirements:
 ```
 requirements = python3,kivy
 ```
+
+### Build APK:
+```
+buildozer -v android debug
+```
